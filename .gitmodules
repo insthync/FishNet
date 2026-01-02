@@ -1,0 +1,7 @@
+[submodule "Assets/AddressableAssetTools"]
+	path = Assets/AddressableAssetTools
+	url = https://github.com/insthync/unity-addressable-asset-tools.git
+[submodule "Assets/FishNetAddOns"]
+	path = Assets/FishNetAddOns
+	url = https://github.com/insthync/FishNetAddOns.git
+	branch = main
